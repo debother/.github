@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-ink.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-paper.png">
-  <img alt="debother. — Small software for annoying problems." src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-paper.png" width="760">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-light.png">
+  <img alt="debother. — Small software for annoying problems." src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-light.png" width="760">
 </picture>
 
 <br>
