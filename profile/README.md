@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/banner-ink.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/banner-paper.png">
-  <img alt="debother. — Small software for annoying problems." src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/banner-paper.png" width="760">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-ink.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-paper.png">
+  <img alt="debother. — Small software for annoying problems." src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/readme-banner-paper.png" width="760">
 </picture>
 
 <br>
 
-[![debother.com](https://img.shields.io/badge/debother.com-171717?style=flat-square)](https://debother.com)
+[![debother.com](https://img.shields.io/badge/debother.com-665e54?style=flat-square)](https://debother.com)
 [![no login](https://img.shields.io/badge/no%20login-FF6B4A?style=flat-square&labelColor=FF6B4A)](#the-debother-rule)
 [![local-first](https://img.shields.io/badge/local--first-4DB8FF?style=flat-square&labelColor=4DB8FF)](#the-debother-rule)
 [![actually useful](https://img.shields.io/badge/actually%20useful-A978FF?style=flat-square&labelColor=A978FF)](#the-debother-rule)
@@ -27,8 +27,8 @@ bloat. Just get the thing done.
 | | Tool | What it fixes | |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[TableUnfuck](https://github.com/debother/tableunfuck)** | Paste a messy table. Get a clean one back — rich text, Markdown, TSV or JSON, entirely in your browser. | **[Use it →](https://tableunfuck.com/)** |
-| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **WLANQR** | Turn your Wi-Fi password into a QR code. Guests scan it, they're connected. | `coming soon` |
-| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **LocaleDiff** | Find missing translations before you ship. Compare locale files, spot missing or empty keys. | `coming soon` |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **WLANQR** | Turn your Wi-Fi password into a QR code. Guests scan it, they're connected. | <code>coming&nbsp;soon</code> |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **LocaleDiff** | Find missing translations before you ship. Compare locale files, spot missing or empty keys. | <code>coming&nbsp;soon</code> |
 
 ## What's bothering you?
 
