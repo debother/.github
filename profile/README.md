@@ -26,9 +26,9 @@ bloat. Just get the thing done.
 
 | | Tool | What it fixes | |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[TableUnfuck](https://github.com/debother/tableunfuck)** | Paste a messy table. Get a clean one back — rich text, Markdown, TSV or JSON, entirely in your browser. | **[Use it →](https://tableunfuck.com/)** |
-| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **WLANQR** | Turn your Wi-Fi password into a QR code. Guests scan it, they're connected. | <code>coming&nbsp;soon</code> |
-| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **LocaleDiff** | Find missing translations before you ship. Compare locale files, spot missing or empty keys. | <code>coming&nbsp;soon</code> |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[TableUnfuck](https://github.com/debother/tableunfuck)** | Paste a messy table. Get a clean one back as rich text, Markdown, TSV or JSON, entirely in your browser. | **[Use it →](https://tableunfuck.com/)** |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **[WLANQR](https://github.com/debother/wlanqr)** | Turn your Wi-Fi password into a QR code and printable guest card. Everything stays in your browser. | **[Use it →](https://wlanqr.debother.com/)** |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **[SheetCompare](https://github.com/debother/SheetCompare)** | Compare two CSV, TSV or delimiter-separated tables by primary key and see exactly what changed. | **[Use it →](https://sheetcompare.debother.com/)** |
 
 ## What's bothering you?
 
