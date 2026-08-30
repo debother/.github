@@ -30,6 +30,7 @@ bloat. Just get the thing done.
 | <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **[WLANQR](https://github.com/debother/wlanqr)** | Turn your Wi-Fi password into a QR code and printable guest card. Everything stays in your browser. | **[Use it →](https://wlanqr.debother.com/)** |
 | <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **[SheetCompare](https://github.com/debother/SheetCompare)** | Compare two CSV, TSV or delimiter-separated tables by primary key and see exactly what changed. | **[Use it →](https://sheetcompare.debother.com/)** |
 | <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[SendPrep](https://github.com/debother/SendPrep)** | Clean up messy email recipient lists. Remove duplicates, review uncertain entries, and copy the result. | **[Use it →](https://sendprep.debother.com/)** |
+| <img src="https://raw.githubusercontent.com/debother/.github/main/profile/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[LineUp](https://github.com/debother/LineUp)** | Put your list in order. Paste a messy list. Clean it up. Copy it back. | **[Use it →](https://lineup.debother.com/)** |
 
 ## What's bothering you?
 
